@@ -11,5 +11,4 @@ module.exports = function getSeason(date) {
     if (month >= 6 && month <= 8) return 'summer' ;
     if (month >= 9 && month <= 11) return 'fall' ;
   }
- 
 };
